@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virkarpankaj
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently learning Python, ML, AI, DL,Tableau,MySQL,Azure
+- 🌱 I’m currently learning Python, ML, AI, DL,Tableau,MySQL 
 - 💞️ I’m looking to collaborate on topics related to Python, Data Science, Machine Learning and Artificial Intelligence
 - 📫 How to reach me pankaj.pvirkar@gmail.com
 
